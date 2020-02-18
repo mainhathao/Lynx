@@ -1,8 +1,8 @@
 <plist version="1.0">
 <dict>
     <key>HOMESCREEN_ICONS</key>
-    <string>Homescreen Icons</string>
+    <string>Màn Hình Chính</string>
     <key>HIDE_ICON_LABELS</key>
-    <string>Hide Icon Labels</string>
+    <string>Ẩn tên Ứng dụng</string>
 </dict>
 </plist>
