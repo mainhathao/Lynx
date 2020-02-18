@@ -1,24 +1,24 @@
 <plist version="1.0">
 <dict>
     <key>STYLE</key>
-    <string>Style</string>
+    <string>Giao Diện</string>
     <key>USE_GRID_SWITCHER</key>
-    <string>Use Grid Switcher</string>
+    <string>Sử Dụng Giao Diện Lưới</string>
     <key>HANDOFF</key>
     <string>Handoff</string>
     <key>HIDE_APP_SUGGESTIONS</key>
-    <string>Hide App Suggestions</string>
+    <string>Ẩn Gợi Ý App</string>
     <key>APP_CARDS</key>
-    <string>App Cards</string>
+    <string>Thẻ Ứng Dụng</string>
     <key>HIDE_APP_LABELS</key>
-    <string>Hide App Labels</string>
+    <string>Ẩn Tên Ứng Dụng</string>
     <key>HIDE_APP_ICONS</key>
-    <string>Hide App Icons</string>
+    <string>Ẩn Biểu Tượng Ứng Dụng</string>
     <key>NOW_PLAYING</key>
-    <string>Now Playing</string>
+    <string>Nhạc Đang Chạy</string>
     <key>PREVENT_APP_KILL</key>
-    <string>Prevent Killing of Playing Apps</string>
+    <string>Không Thoát App Đang Phát Nhạc</string>
     <key>APP_SWITCHER</key>
-    <string>App Switcher</string>
+    <string>Trang Chuyển Đổi Ứng Dụng</string>
 </dict>
 </plist>
