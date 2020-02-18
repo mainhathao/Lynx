@@ -1,8 +1,8 @@
 <plist version="1.0">
 <dict>
     <key>UPDATES_TAB</key>
-    <string>Updates Tab</string>
+    <string>Cập nhật</string>
     <key>REPLACE_UPDATES</key>
-    <string>Replace Arcade with Updates</string>
+    <string>Thay thế Giải Trí bằng Cập Nhật</string>
 </dict>
 </plist>
