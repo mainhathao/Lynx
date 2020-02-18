@@ -1,18 +1,18 @@
 <plist version="1.0">
 <dict>
     <key>STATUS_BAR</key>
-    <string>Status Bar</string>
+    <string>Thanh Trạng Thái</string>
     <key>HIDE_STATUS_BAR</key>
-    <string>Hide Status Bar</string>
+    <string>Ẩn Thanh Trạng Thái</string>
     <key>HIDE_TOGGLE_HINTS</key>
-    <string>Hide Toggle Hints</string>
+    <string>Ẩn Thông Báo Mở/Tắt</string>
     <key>CONNECTIVITY</key>
-    <string>Connectivity</string>
+    <string>Kết Nối</string>
     <key>HIDE_CONNECTIVITY_SEPARATORS</key>
-    <string>Hide Connectivity Separators</string>
+    <string>Ẩn Phân Cách Các Mục Kết Nối</string>
     <key>DISABLE_TOGGLES</key>
-    <string>Actually Disable Toggles</string>
+    <string>Tắt Hoàn Toàn Kết Nối</string>
     <key>CONTROL_CENTER</key>
-    <string>Control Center</string>
+    <string>Trung Tâm Điều Khiển</string>
 </dict>
 </plist>
