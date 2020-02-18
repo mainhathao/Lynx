@@ -1,14 +1,14 @@
 <plist version="1.0">
 <dict>
     <key>STYLE</key>
-    <string>Style</string>
+    <string>Giao Diện</string>
     <key>USE_IPAD_STYLE</key>
-    <string>Use iPad Style</string>
+    <string>Dùng Giao Diện iPad</string>
     <key>PREVIEW</key>
-    <string>Preview</string>
+    <string>Xem Trước</string>
     <key>HIDE_RECENT_PREVIEW</key>
-    <string>Hide recent picture preview</string>
+    <string>Ẩn hình mới chụp</string>
     <key>CAMERA</key>
-    <string>Camera</string>
+    <string>Máy Ảnh</string>
 </dict>
 </plist>
