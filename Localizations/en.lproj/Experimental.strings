@@ -1,16 +1,16 @@
 <plist version="1.0">
 <dict>
     <key>NOTIFICATION_ICONS</key>
-    <string>Notification Icons</string>
+    <string>Biểu Tượng Thông Báo</string>
     <key>USE_MODERN_STYLE</key>
-    <string>Use Modern Style</string>
+    <string>Dùng Giao Diện Hiện Đại</string>
     <key>AUTO_LAYOUT</key>
-    <string>Force Auto Layout</string>
+    <string>Bố Trí Tự Động</string>
     <key>USE_CIRCLE_ICONS</key>
-    <string>Use Circle Icons</string>
+    <string>Dùng Biểu Tượng Tròn</string>
     <key>AUTO_LAYOUT_PLACEHOLDER</key>
-    <string>Forcing 'Auto-Layout' may cause icons to jump when opening notification stacks</string>
+    <string>Dùng 'Bố Trí Tự Động' có thể làm các biểu tượng nhảy khi mở các tệp thông báo</string>
     <key>EXPERIMENTAL</key>
-    <string>Experimental</string>
+    <string>Thử Nghiệm</string>
 </dict>
 </plist>
