@@ -1,8 +1,8 @@
 <plist version="1.0">
 <dict>
     <key>POSTS</key>
-    <string>Posts</string>
+    <string>Bài Viết</string>
     <key>SHOW_LIKES</key>
-    <string>Show Likes</string>
+    <string>Hiển thị lượt thích</string>
 </dict>
 </plist>
